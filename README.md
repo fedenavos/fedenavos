@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Navos</h1>
 <h3 align="center">FullStack developer</h3>
 
-- 🔭 I’m currently working on **G. P. Trading**
+- 🔭 I’m currently working on **DXC Technology**
 
 - 🌱 I’m currently learning **Solidity**
 
